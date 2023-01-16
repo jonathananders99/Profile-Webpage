@@ -314,7 +314,7 @@ hr {
   background-color: #eb5424;
   color: #fff;
   border-radius: 10px;
-  transition: background-color 0.2s ease-in-out;
+  transition: background-color 0.5s ease-in-out;
 }
 .skills-grid-item:hover {
   background-color: #333;
