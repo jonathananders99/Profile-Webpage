@@ -1,5 +1,5 @@
 Database Developer
-Create and maintain databases for clients.
+Create/maintain databases, database integrations, and anaylitics for clients.
 
 TA
 TA for a computer science course: grading, hosting zoom, teaching computer science skills to students, and helping shape course direction and assignments.
