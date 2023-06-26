@@ -87,3 +87,10 @@ Varma Datla - (513) 478-5357 - varma.datla@elevancehealth.com - Director Enginee
 RaShun Stewart Jr. - (609) 401-7207 - rashunxl@gmail.com - Entrepreneur
 
 Ashley Sharma - (317) 935-8830 - ashleysharma2022@gmail.com - Project Manager
+
+
+
+I actively collaborated within a team of analysts at Elevance Health, collectively tackling significant business challenges. Our data analysis efforts encompassed a diverse range of datasets, with one particularly substantial table containing approximately 50 billion rows. By applying my proficiency in Python, Excel, and PowerBI, I effectively addressed a multitude of business concerns. The insights and findings derived from these analyses were then presented to esteemed senior stakeholders at Elevance Health, including Anil Bhatt, the Chief Information Officer, and other influential decision-makers.
+
+In my freelance capacity, I successfully constructed three comprehensive databases encompassing integration, automation, analytics, and robust security measures, among other key features. This endeavor demanded a substantial investment of over 1,500 hours, dedicated to meticulous design, development, rigorous testing, and resolving any issues that arose, all of which were undertaken solely by me. I also assumed the responsibility of devising methods for expansion and troubleshooting, including creating informative tutorial videos for clients and providing personalized guidance to a team member when encountering particularly complex technical challenges beyond routine error resolution.  
+
