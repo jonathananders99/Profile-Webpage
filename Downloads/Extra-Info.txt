@@ -15,12 +15,15 @@ St. Johns
 jonathananders99@gmail.com
 
 Skills:
-Data Analysis, Machine Learning, Database Development, Database Integration, MongoDB, Oracle Database, Google Apps Scripts, Java Programming, Golang, ReactJS, Teradata, Power BI, SQL, Tableau, R Programming, AWS Applications, MySQL, Python Programming, NodeJS, ChatGPT (AI Chatbots), GitHub, MacOS, SAFe (Scaled Agile Framework), MS Office Applications, Technical Documentation, Excel Data Manipulation, Front-end Development, Back-end Development, Teaching Computer Science Skills, Freelance Programming, Client Communication, Project Management, Website Building
+Technical: Data Analysis, Machine Learning, Database Development, Database Integration, Power BI, Tableau, Python, Advanced Excel, SQL, MongoDB, Oracle, Teradata, Jira, C++, Google Apps Scripts, Java, AWS, ReactJS, MySQL, NodeJS, GitHub, Git, MacOS, SAFe, MSOffice apps, Golang.
+Soft Skills: Analytical Thinking, Critical Problem Solving, Meeting Timelines, Perform Under Pressure, Creative, Empathy, Professional Communication, Delivering Presentations, Eager towards Learning
+
+MongoDB, Oracle Database, Google Apps Scripts, Java Programming, Golang, ReactJS, Teradata, Power BI, SQL, Tableau, R Programming, AWS Applications, MySQL, Python Programming, NodeJS, ChatGPT (AI Chatbots), GitHub, MacOS, SAFe (Scaled Agile Framework), MS Office Applications, Technical Documentation, Excel Data Manipulation, Front-end Development, Back-end Development, Teaching Computer Science Skills, Freelance Programming, Client Communication, Project Management, Website Building
 
 Degrees: 
 
 Indiana Wesleyan University
-November 2018 - May 2021
+January 2019 - May 2021
 Marion, IN
 GPA 3.4
 Associates Degree in Business Science
@@ -36,7 +39,7 @@ Job history=
 
 Nordstrom 7/24/18-10/22/18
 Sales associate (accessories department)
-Did everything from helping to manage inventory through inventory system, counting cash in the morning, helping customers choose products, operating the register, organizing back stock, stocking shelves, and more.
+•	Assisted in inventory management inventory, cash counting, customer assistance, register operation, organization, and shelf stocking
 Hours were either 8:00am-5:00pm or 1:30pm-10:30pm
 Boss - John Harris - accessories manager - phone # (253) 320-0652
 Address - 3920 124th AVE SE, Bellevue, WA 98006
@@ -45,7 +48,7 @@ Store phone - (425) 746-7200
 
 Nordstrom 10/29/18-1/2/20
 Service Experience / Merchandise Support
-Did everything from helping to manage inventory through inventory system, counting cash in the morning, helping customers choose products, operating the register, organizing back stock, stocking shelves, and more.
+•	Assisted in inventory management inventory, cash counting, customer assistance, register operation, organization, and shelf stocking
 Hours 6am- 1pm
 Boss - Tim Snyder - Former MST Manager - Phone # (317) 752-9346
 Address - 4036 E 82nd St
@@ -57,7 +60,10 @@ Store phone - (317) 572-2955
 Freelance work (no company) 10/1/19-6/5/22
 Part-time 
 Database Developer
-Create/maintain databases, database integrations, and analytics for clients.
+•	Built 3 comprehensive databases with integration, automation, analytics, and security measures using GAS and NodeJS
+•	Involved over 1,500 hours of design, testing, development, and issue resolution
+•	Learned client communication including where and how to get client input
+•	Created tutorial videos for clients and personalized guidance for possible complex technical challenges faced
 Hours N/A
 Boss - Me - Phone - My phone # 
 Address - 12191 Silvara Ct. Carmel Indiana 46032
@@ -66,15 +72,18 @@ Store phone - My phone #
 
 Elevance Health (formerly Anthem) 6/6/22-8/12/22
 Data Analyst Intern
-Used large databases with billions of records to provide data analysis reports on varying subsets of data to solve business problems.
+•	Analyzed datasets, including a massive 50 billion row table using Teradata and Python
+•	Addressed business concerns regarding claims adjudication using Excel and Power BI
+•	Collaborated with a small team of analysts to solve business problems using Jira
+•	Presented findings to senior stakeholders (CIO) using Power BI, and PowerPoint
 Hours 8am-5pm (Monday-Friday)
 Boss: Varma Datla - Phone: (513) 478-5357 - Email: varma.datla@elevancehealth.com
 Address - work from home Indianapolis
 
 
 Purdue University (IUPUI) 01/09/23 - 5/12/23
-TA
-TA for a computer science course: teaching computer science skills to students, helping shape course direction and assignments, technical troubleshooting, Zoom classroom management, online office hours, and grading & feedback.
+TA for a computer science course
+•	Actively engaged with students in teaching computer science skills, guiding the direction of the course and assignments, troubleshooting technical issues, managing Zoom classrooms, hosting online office hours, and providing grading and feedback.
 Hours: 20 hrs/week
 Boss/professor: Kelly van Busum - Phone: N/A - Email: kelvanbu@iupui.edu
 Address 732 W Michigan Street Indianapolis Indiana 46202
