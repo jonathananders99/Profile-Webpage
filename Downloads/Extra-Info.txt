@@ -15,10 +15,9 @@ St. Johns
 jonathananders99@gmail.com
 
 Skills:
-Technical: Data Analysis, Machine Learning, Database Development, Database Integration, Power BI, Tableau, Python, Advanced Excel, SQL, MongoDB, Oracle, Teradata, Jira, C++, Google Apps Scripts, Java, AWS, ReactJS, MySQL, NodeJS, GitHub, Git, MacOS, SAFe, MSOffice apps, Golang.
-Soft Skills: Analytical Thinking, Critical Problem Solving, Meeting Timelines, Perform Under Pressure, Creative, Empathy, Professional Communication, Delivering Presentations, Eager towards Learning
+Technical: Data Analysis, Machine Learning, Database Development, Database Integration, Power BI, Tableau, Python, Excel, SQL, MongoDB, Oracle, Teradata, Jira, C++, Google Apps Scripts, Google Sheets, Java, AWS, ReactJS, MySQL, NodeJS, GitHub, Git, MacOS, Scaled Agile Framework (SAFe), MSOffice apps, Golang.
+Soft Skills: Analytical Thinking, Critical Problem Solving, Reliability, Stress Management, Creative, Empathy, Professional Communication, Delivering Presentations, Eager towards Learning
 
-MongoDB, Oracle Database, Google Apps Scripts, Java Programming, Golang, ReactJS, Teradata, Power BI, SQL, Tableau, R Programming, AWS Applications, MySQL, Python Programming, NodeJS, ChatGPT (AI Chatbots), GitHub, MacOS, SAFe (Scaled Agile Framework), MS Office Applications, Technical Documentation, Excel Data Manipulation, Front-end Development, Back-end Development, Teaching Computer Science Skills, Freelance Programming, Client Communication, Project Management, Website Building
 
 Degrees: 
 
@@ -74,7 +73,7 @@ Elevance Health (formerly Anthem) 6/6/22-8/12/22
 Data Analyst Intern
 •	Analyzed datasets, including a massive 50 billion row table using Teradata and Python
 •	Addressed business concerns regarding claims adjudication using Excel and Power BI
-•	Collaborated with a small team of analysts to solve business problems using Jira
+•	Collaborated with a small team of analysts to solve claim-related business problems using Jira
 •	Presented findings to senior stakeholders (CIO) using Power BI, and PowerPoint
 Hours 8am-5pm (Monday-Friday)
 Boss: Varma Datla - Phone: (513) 478-5357 - Email: varma.datla@elevancehealth.com - Director Engineering
