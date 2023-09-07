@@ -236,7 +236,7 @@ hr {
 .portfolio-link:hover,
 .portfolio-link:active,
 .portfolio-link:visited {
-    text-decoration: none !important;
+    text-decoration: underline !important;
     color: #FFFFFF !important;
 }
 
