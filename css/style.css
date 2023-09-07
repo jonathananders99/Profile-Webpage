@@ -233,11 +233,15 @@ hr {
     margin-bottom: 10px;
 }
 .portfolio-link,
-.portfolio-link:hover,
 .portfolio-link:active,
 .portfolio-link:visited {
     text-decoration: underline !important;
     color: #FFFFFF !important;
+}
+
+.portfolio-link:hover{
+    text-decoration: underline !important;
+    color: #000000 !important;
 }
 
 /* FILTER CSS */
