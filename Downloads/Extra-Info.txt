@@ -57,8 +57,7 @@ Store phone - (317) 572-2955
 
 
 Freelance work (no company) 10/1/19-6/5/22
-Part-time 
-Database Developer
+Database System and Analytics Engineer
 •	Built 3 comprehensive databases with integration, automation, analytics, and security measures using GAS and NodeJS
 •	Involved over 1,500 hours of design, testing, development, and issue resolution
 •	Learned client communication including where and how to get client input
